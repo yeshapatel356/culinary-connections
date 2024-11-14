@@ -1,0 +1,10 @@
+# Environment variables
+.env
+
+# Data files
+data/*.json
+data/*.csv
+
+# Virtual environment
+.venv/
+.env/
