@@ -1,0 +1,7 @@
+requests
+pandas
+scikit-learn
+nltk
+matplotlib
+kagglehub
+
