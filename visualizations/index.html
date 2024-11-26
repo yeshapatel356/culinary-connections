@@ -1,0 +1,97 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Interactive Recipe Analysis</title>
+            <style>
+                body { 
+                    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                    margin: 0;
+                    padding: 20px;
+                    background-color: #f5f5f5;
+                    color: #333;
+                }
+                .container {
+                    max-width: 1200px;
+                    margin: auto;
+                }
+                .viz-container {
+                    margin-bottom: 40px;
+                    background: white;
+                    padding: 25px;
+                    border-radius: 12px;
+                    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+                }
+                .viz-header {
+                    margin-bottom: 20px;
+                }
+                .viz-title {
+                    font-size: 24px;
+                    font-weight: 600;
+                    margin: 0 0 10px 0;
+                    color: #2c3e50;
+                }
+                .viz-description {
+                    color: #666;
+                    margin: 0 0 20px 0;
+                    font-size: 16px;
+                }
+                iframe {
+                    width: 100%;
+                    height: 800px;
+                    border: none;
+                    border-radius: 8px;
+                    background: #fff;
+                }
+                h1 {
+                    text-align: center;
+                    color: #2c3e50;
+                    margin: 40px 0;
+                    font-size: 36px;
+                    font-weight: 700;
+                }
+            </style>
+        </head>
+        <body>
+            <div class="container">
+                <h1>Interactive Recipe Analysis Dashboard</h1>
+                
+                <div class="viz-container">
+                    <div class="viz-header">
+                        <h2 class="viz-title">Cuisine Network Analysis</h2>
+                        <p class="viz-description">
+                            Explore relationships between different cuisines based on shared ingredients and cooking methods.
+                            Larger nodes indicate more recipes, and thicker connections show stronger similarities.
+                            Hover over nodes and edges for detailed information.
+                        </p>
+                    </div>
+                    <iframe src="cuisine_network.html"></iframe>
+                </div>
+                
+                <div class="viz-container">
+                    <div class="viz-header">
+                        <h2 class="viz-title">Ingredient Usage Patterns</h2>
+                        <p class="viz-description">
+                            Discover how ingredients are used across different cuisines.
+                            Darker colors indicate higher usage frequency.
+                            Hover over cells to see exact usage percentages.
+                        </p>
+                    </div>
+                    <iframe src="ingredient_heatmap.html"></iframe>
+                </div>
+                
+                <div class="viz-container">
+                    <div class="viz-header">
+                        <h2 class="viz-title">Cuisine Clustering Analysis</h2>
+                        <p class="viz-description">
+                            See how cuisines are grouped based on their cooking methods.
+                            Colors indicate different clusters of similar cooking styles.
+                            The closer cuisines are connected, the more similar their cooking approaches.
+                        </p>
+                    </div>
+                    <iframe src="cooking_dendrogram.html"></iframe>
+                </div>
+            </div>
+        </body>
+        </html>
+        
