@@ -8,3 +8,6 @@ data/*.csv
 # Virtual environment
 .venv/
 .env/
+
+# Cache files
+__pycache__
