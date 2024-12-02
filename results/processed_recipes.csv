@@ -1,0 +1,166 @@
+category,cooking_method,cuisine,image,ingredients,prep_time,recipe_name,serves,tags,category_encoded,cooking_method_encoded,cuisine_encoded,ingredients_str
+main course,baking,italian,https://example.com/lasagna.jpg,"['lasagna sheets', 'ricotta', 'ground beef', 'tomato sauce']",60,Classic Lasagna,6,"['dairy', 'kid friendly']",1,0,12,lasagna sheets ricotta ground beef tomato sauce
+snack,frying,indian,https://example.com/samosa.jpg,"['potatoes', 'peas', 'flour', 'spices', 'oil']",45,Samosa,4,"['vegan', 'spicy']",3,3,11,potatoes peas flour spices oil
+dessert,baking,french,https://example.com/macaron.jpg,"['almond flour', 'egg whites', 'sugar', 'food coloring']",120,French Macarons,12,"['gluten free', 'sweet']",0,0,8,almond flour egg whites sugar food coloring
+side dish,boiling,japanese,https://example.com/miso_soup.jpg,"['miso paste', 'tofu', 'green onions', 'seaweed']",15,Miso Soup,4,"['low carb', 'vegetarian']",2,1,13,miso paste tofu green onions seaweed
+main course,grilling,american,https://example.com/bbq_ribs.jpg,"['pork ribs', 'barbecue sauce', 'spices']",60,BBQ Ribs,4,"['kid friendly', 'spicy']",1,4,1,pork ribs barbecue sauce spices
+dessert,baking,italian,https://example.com/tiramisu.jpg,"['mascarpone', 'coffee', 'ladyfingers', 'cocoa powder']",30,Tiramisu,8,"['dairy', 'sweet']",0,0,12,mascarpone coffee ladyfingers cocoa powder
+snack,steaming,chinese,https://example.com/dumplings.jpg,"['pork', 'cabbage', 'soy sauce', 'ginger', 'garlic']",40,Chinese Dumplings,4,"['low carb', 'kid friendly']",3,6,6,pork cabbage soy sauce ginger garlic
+main course,boiling,thai,https://example.com/tom_yum.jpg,"['shrimp', 'lemongrass', 'chili paste', 'mushrooms']",30,Tom Yum Soup,4,"['spicy', 'keto']",1,1,18,shrimp lemongrass chili paste mushrooms
+snack,baking,mexican,https://example.com/nachos.jpg,"['corn chips', 'cheese', 'jalapeños', 'salsa']",20,Nachos,4,"['vegetarian', 'quick']",3,0,16,corn chips cheese jalapeños salsa
+main course,frying,indian,https://example.com/butter_chicken.jpg,"['chicken', 'butter', 'cream', 'tomatoes']",50,Butter Chicken,4,"['dairy', 'spicy']",1,3,11,chicken butter cream tomatoes
+dessert,roasting,american,https://example.com/apple_pie.jpg,"['apples', 'sugar', 'cinnamon', 'pie crust']",90,Apple Pie,6,"['vegetarian', 'sweet']",0,5,1,apples sugar cinnamon pie crust
+main course,boiling,italian,https://example.com/spaghetti_carbonara.jpg,"['spaghetti', 'eggs', 'pancetta', 'parmesan']",30,Spaghetti Carbonara,4,"['quick', 'dairy']",1,1,12,spaghetti eggs pancetta parmesan
+snack,frying,american,https://example.com/onion_rings.jpg,"['onions', 'flour', 'bread crumbs', 'oil']",25,Onion Rings,4,"['vegetarian', 'kid friendly']",3,3,1,onions flour bread crumbs oil
+side dish,grilling,japanese,https://example.com/yakitori.jpg,"['chicken skewers', 'soy sauce', 'mirin', 'sugar']",35,Yakitori,4,"['low carb', 'keto']",2,4,13,chicken skewers soy sauce mirin sugar
+dessert,baking,french,https://example.com/croissant.jpg,"['flour', 'butter', 'yeast', 'sugar']",120,Croissant,8,"['dairy', 'sweet']",0,0,8,flour butter yeast sugar
+main course,frying,mexican,https://example.com/chimichanga.jpg,"['tortilla', 'beef', 'beans', 'cheese']",40,Chimichanga,4,"['spicy', 'kid friendly']",1,3,16,tortilla beef beans cheese
+snack,baking,american,https://example.com/brownies.jpg,"['chocolate', 'flour', 'sugar', 'eggs']",40,Brownies,12,"['gluten free', 'sweet']",3,0,1,chocolate flour sugar eggs
+dessert,baking,japanese,https://example.com/mochi.jpg,"['glutinous rice', 'sugar', 'cornstarch']",50,Mochi,6,"['vegetarian', 'gluten free']",0,0,13,glutinous rice sugar cornstarch
+main course,steaming,chinese,https://example.com/pork_buns.jpg,"['pork', 'flour', 'yeast', 'sugar']",60,Steamed Pork Buns,6,"['dairy free', 'sweet']",1,6,6,pork flour yeast sugar
+side dish,baking,italian,https://example.com/garlic_bread.jpg,"['baguette', 'garlic', 'butter', 'parsley']",20,Garlic Bread,8,"['vegetarian', 'quick']",2,0,12,baguette garlic butter parsley
+snack,frying,thai,https://example.com/spring_rolls.jpg,"['vegetables', 'rice paper', 'soy sauce']",30,Spring Rolls,4,"['vegetarian', 'low carb']",3,3,18,vegetables rice paper soy sauce
+main course,grilling,american,https://example.com/burger.jpg,"['beef patty', 'bun', 'lettuce', 'tomato']",20,Cheeseburger,4,"['kid friendly', 'quick']",1,4,1,beef patty bun lettuce tomato
+dessert,baking,french,https://example.com/eclair.jpg,"['pate a choux', 'cream', 'chocolate']",60,Chocolate Eclair,6,"['dairy', 'sweet']",0,0,8,pate a choux cream chocolate
+side dish,roasting,mexican,https://example.com/street_corn.jpg,"['corn', 'mayonnaise', 'chili powder', 'lime']",25,Mexican Street Corn,4,"['spicy', 'vegetarian']",2,5,16,corn mayonnaise chili powder lime
+main course,boiling,thai,https://example.com/green_curry.jpg,"['chicken', 'green curry paste', 'coconut milk', 'vegetables']",45,Green Curry,4,"['dairy free', 'spicy']",1,1,18,chicken green curry paste coconut milk vegetables
+snack,frying,indian,https://example.com/chaat.jpg,"['potatoes', 'chickpeas', 'tamarind', 'spices']",30,Papdi Chaat,4,"['vegan', 'quick']",3,3,11,potatoes chickpeas tamarind spices
+dessert,baking,italian,https://example.com/cannoli.jpg,"['ricotta', 'sugar', 'pastry dough', 'chocolate chips']",45,Cannoli,6,"['dairy', 'sweet']",0,0,12,ricotta sugar pastry dough chocolate chips
+main course,grilling,japanese,https://example.com/teriyaki_chicken.jpg,"['chicken', 'soy sauce', 'sugar', 'ginger']",40,Teriyaki Chicken,4,"['keto', 'low carb']",1,4,13,chicken soy sauce sugar ginger
+side dish,boiling,french,https://example.com/ratatouille.jpg,"['tomatoes', 'zucchini', 'eggplant', 'bell peppers']",50,Ratatouille,4,"['vegetarian', 'low carb']",2,1,8,tomatoes zucchini eggplant bell peppers
+dessert,baking,american,https://example.com/chocolate_chip_cookies.jpg,"['flour', 'sugar', 'butter', 'chocolate chips']",30,Chocolate Chip Cookies,12,"['kid friendly', 'sweet']",0,0,1,flour sugar butter chocolate chips
+snack,frying,chinese,https://example.com/egg_rolls.jpg,"['cabbage', 'pork', 'soy sauce', 'flour wraps']",40,Egg Rolls,6,"['keto', 'quick']",3,3,6,cabbage pork soy sauce flour wraps
+main course,boiling,italian,https://example.com/fettuccine_alfredo.jpg,"['fettuccine', 'cream', 'parmesan', 'butter']",30,Fettuccine Alfredo,4,"['dairy', 'kid friendly']",1,1,12,fettuccine cream parmesan butter
+side dish,roasting,indian,https://example.com/roasted_chickpeas.jpg,"['chickpeas', 'spices', 'oil']",25,Roasted Chickpeas,4,"['vegetarian', 'spicy']",2,5,11,chickpeas spices oil
+dessert,steaming,chinese,https://example.com/mango_pudding.jpg,"['mango', 'sugar', 'gelatin']",50,Mango Pudding,6,"['gluten free', 'sweet']",0,6,6,mango sugar gelatin
+main course,frying,american,https://example.com/fried_chicken.jpg,"['chicken', 'flour', 'spices', 'oil']",50,Fried Chicken,4,"['kid friendly', 'quick']",1,3,1,chicken flour spices oil
+snack,boiling,japanese,https://example.com/ramen.jpg,"['noodles', 'broth', 'pork', 'egg']",40,Ramen,4,"['spicy', 'low carb']",3,1,13,noodles broth pork egg
+dessert,baking,french,https://example.com/mille_feuille.jpg,"['puff pastry', 'cream', 'sugar']",80,Mille Feuille,8,"['dairy', 'sweet']",0,0,8,puff pastry cream sugar
+main course,grilling,mexican,https://example.com/fajitas.jpg,"['chicken', 'peppers', 'onions', 'tortillas']",35,Chicken Fajitas,4,"['spicy', 'dairy free']",1,4,16,chicken peppers onions tortillas
+snack,frying,indian,https://example.com/vada_pav.jpg,"['bread roll', 'potato fritter', 'chutney']",40,Vada Pav,4,"['vegan', 'spicy']",3,3,11,bread roll potato fritter chutney
+dessert,boiling,italian,https://example.com/panna_cotta.jpg,"['cream', 'sugar', 'gelatin', 'vanilla']",30,Panna Cotta,4,"['vegetarian', 'sweet']",0,1,12,cream sugar gelatin vanilla
+main course,baking,french,https://example.com/coq_au_vin.jpg,"['chicken', 'wine', 'mushrooms', 'onions']",120,Coq au Vin,4,"['dairy free', 'spicy']",1,0,8,chicken wine mushrooms onions
+side dish,boiling,japanese,https://example.com/edamame.jpg,"['edamame beans', 'salt']",10,Edamame,4,"['vegetarian', 'low carb']",2,1,13,edamame beans salt
+snack,baking,mexican,https://example.com/empanadas.jpg,"['pastry dough', 'beef', 'onions', 'peppers']",50,Empanadas,4,"['kid friendly', 'quick']",3,0,16,pastry dough beef onions peppers
+main course,boiling,italian,https://example.com/ravioli.jpg,"['ravioli pasta', 'ricotta', 'tomato sauce', 'parmesan']",40,Spinach and Ricotta Ravioli,4,"['vegetarian', 'dairy']",1,1,12,ravioli pasta ricotta tomato sauce parmesan
+snack,frying,american,https://example.com/corn_dogs.jpg,"['hot dogs', 'cornmeal batter', 'oil']",30,Corn Dogs,6,"['kid friendly', 'quick']",3,3,1,hot dogs cornmeal batter oil
+dessert,baking,french,https://example.com/tarte_tatin.jpg,"['apples', 'butter', 'sugar', 'puff pastry']",60,Tarte Tatin,8,"['vegetarian', 'sweet']",0,0,8,apples butter sugar puff pastry
+main course,grilling,greek,https://example.com/gyros.jpg,"['lamb', 'pita bread', 'tzatziki sauce', 'vegetables']",45,Greek Gyros,4,"['dairy', 'low carb']",1,4,10,lamb pita bread tzatziki sauce vegetables
+side dish,boiling,indian,https://example.com/dal_tadka.jpg,"['yellow lentils', 'ghee', 'spices', 'garlic']",40,Dal Tadka,4,"['vegetarian', 'vegan']",2,1,11,yellow lentils ghee spices garlic
+snack,frying,mexican,https://example.com/taquitos.jpg,"['corn tortillas', 'chicken', 'cheese', 'salsa']",35,Chicken Taquitos,4,"['kid friendly', 'spicy']",3,3,16,corn tortillas chicken cheese salsa
+dessert,baking,american,https://example.com/red_velvet.jpg,"['flour', 'cocoa powder', 'cream cheese', 'food coloring']",50,Red Velvet Cake,8,"['kid friendly', 'sweet']",0,0,1,flour cocoa powder cream cheese food coloring
+main course,baking,indian,https://example.com/biryani.jpg,"['rice', 'chicken', 'saffron', 'spices']",60,Chicken Biryani,6,"['spicy', 'dairy free']",1,0,11,rice chicken saffron spices
+snack,steaming,chinese,https://example.com/bao.jpg,"['pork', 'flour', 'yeast', 'sugar']",50,Char Siu Bao,4,"['low carb', 'sweet']",3,6,6,pork flour yeast sugar
+dessert,frying,indian,https://example.com/jalebi.jpg,"['flour', 'sugar', 'yogurt', 'ghee']",30,Jalebi,8,"['gluten free', 'sweet']",0,3,11,flour sugar yogurt ghee
+main course,boiling,japanese,https://example.com/soba.jpg,"['soba noodles', 'soy sauce', 'scallions', 'mushrooms']",25,Soba Noodle Soup,4,"['vegan', 'low carb']",1,1,13,soba noodles soy sauce scallions mushrooms
+snack,baking,italian,https://example.com/arancini.jpg,"['risotto', 'mozzarella', 'bread crumbs', 'oil']",45,Arancini,6,"['dairy', 'spicy']",3,0,12,risotto mozzarella bread crumbs oil
+side dish,roasting,french,https://example.com/ratatouille.jpg,"['zucchini', 'eggplant', 'tomatoes', 'herbs']",50,Provencal Ratatouille,4,"['vegetarian', 'gluten free']",2,5,8,zucchini eggplant tomatoes herbs
+dessert,baking,french,https://example.com/clafoutis.jpg,"['cherries', 'milk', 'sugar', 'eggs']",50,Cherry Clafoutis,6,"['gluten free', 'sweet']",0,0,8,cherries milk sugar eggs
+main course,grilling,american,https://example.com/steak.jpg,"['beef steak', 'salt', 'pepper', 'butter']",30,Grilled Ribeye Steak,2,"['keto', 'low carb']",1,4,1,beef steak salt pepper butter
+snack,frying,indian,https://example.com/bhaji.jpg,"['onions', 'chickpea flour', 'spices', 'oil']",20,Onion Bhaji,4,"['gluten free', 'spicy']",3,3,11,onions chickpea flour spices oil
+dessert,baking,french,https://example.com/madeleines.jpg,"['butter', 'sugar', 'flour', 'eggs']",35,French Madeleines,12,"['dairy', 'sweet']",0,0,8,butter sugar flour eggs
+main course,boiling,italian,https://example.com/gnocchi.jpg,"['potatoes', 'flour', 'parmesan', 'butter']",40,Potato Gnocchi,4,"['vegetarian', 'dairy']",1,1,12,potatoes flour parmesan butter
+snack,frying,mexican,https://example.com/churros.jpg,"['flour', 'sugar', 'cinnamon', 'oil']",30,Churros,8,"['gluten free', 'sweet']",3,3,16,flour sugar cinnamon oil
+main course,steaming,chinese,https://example.com/ma_po_tofu.jpg,"['tofu', 'ground pork', 'chili bean paste', 'scallions']",25,Ma Po Tofu,4,"['spicy', 'dairy free']",1,6,6,tofu ground pork chili bean paste scallions
+side dish,boiling,indian,https://example.com/poha.jpg,"['flattened rice', 'peanuts', 'curry leaves', 'spices']",15,Poha,2,"['vegan', 'quick']",2,1,11,flattened rice peanuts curry leaves spices
+dessert,baking,french,https://example.com/creme_brulee.jpg,"['cream', 'sugar', 'egg yolks', 'vanilla']",45,Crème Brûlée,4,"['dairy', 'sweet']",0,0,8,cream sugar egg yolks vanilla
+main course,grilling,american,https://example.com/pulled_pork.jpg,"['pork shoulder', 'barbecue sauce', 'spices']",60,Pulled Pork Sandwiches,4,"['kid friendly', 'dairy free']",1,4,1,pork shoulder barbecue sauce spices
+snack,frying,chinese,https://example.com/spring_roll.jpg,"['cabbage', 'carrots', 'soy sauce', 'wrappers']",25,Veggie Spring Rolls,6,"['vegan', 'quick']",3,3,6,cabbage carrots soy sauce wrappers
+dessert,baking,american,https://example.com/pumpkin_pie.jpg,"['pumpkin', 'sugar', 'pie crust', 'spices']",60,Pumpkin Pie,8,"['vegetarian', 'sweet']",0,0,1,pumpkin sugar pie crust spices
+main course,frying,indian,https://example.com/kofta.jpg,"['ground meat', 'spices', 'yogurt', 'chickpea flour']",45,Lamb Kofta,4,"['spicy', 'low carb']",1,3,11,ground meat spices yogurt chickpea flour
+snack,baking,mexican,https://example.com/quesadillas.jpg,"['tortilla', 'cheese', 'peppers', 'onions']",15,Cheese Quesadilla,4,"['vegetarian', 'kid friendly']",3,0,16,tortilla cheese peppers onions
+side dish,boiling,japanese,https://example.com/sunomono.jpg,"['cucumber', 'rice vinegar', 'sugar', 'sesame seeds']",15,Cucumber Sunomono,4,"['gluten free', 'low carb']",2,1,13,cucumber rice vinegar sugar sesame seeds
+main course,steaming,chinese,https://example.com/hot_pot.jpg,"['beef', 'mushrooms', 'bok choy', 'chili broth']",50,Chinese Hot Pot,6,"['spicy', 'keto']",1,6,6,beef mushrooms bok choy chili broth
+dessert,baking,french,https://example.com/galette.jpg,"['peaches', 'sugar', 'flour', 'butter']",40,Peach Galette,6,"['dairy', 'sweet']",0,0,8,peaches sugar flour butter
+main course,grilling,greek,https://example.com/souvlaki.jpg,"['pork skewers', 'lemon', 'oregano', 'garlic']",35,Pork Souvlaki,4,"['low carb', 'dairy free']",1,4,10,pork skewers lemon oregano garlic
+snack,baking,indian,https://example.com/khakhra.jpg,"['wheat flour', 'spices', 'oil']",20,Masala Khakhra,6,"['vegan', 'gluten free']",3,0,11,wheat flour spices oil
+dessert,boiling,thai,https://example.com/sticky_rice.jpg,"['glutinous rice', 'coconut milk', 'mango']",40,Mango Sticky Rice,4,"['dairy free', 'sweet']",0,1,18,glutinous rice coconut milk mango
+main course,frying,japanese,https://example.com/katsu.jpg,"['pork cutlets', 'panko', 'cabbage', 'tonkatsu sauce']",40,Pork Katsu,4,"['quick', 'dairy free']",1,3,13,pork cutlets panko cabbage tonkatsu sauce
+side dish,roasting,italian,https://example.com/caprese.jpg,"['tomatoes', 'mozzarella', 'basil', 'olive oil']",15,Caprese Salad,4,"['vegetarian', 'gluten free']",2,5,12,tomatoes mozzarella basil olive oil
+dessert,baking,american,https://example.com/bundt_cake.jpg,"['flour', 'sugar', 'butter', 'eggs']",50,Chocolate Bundt Cake,8,"['kid friendly', 'sweet']",0,0,1,flour sugar butter eggs
+snack,frying,indian,https://example.com/bhel_puri.jpg,"['puffed rice', 'tamarind', 'onions', 'peanuts']",20,Bhel Puri,4,"['spicy', 'vegan']",3,3,11,puffed rice tamarind onions peanuts
+main course,baking,mexican,https://example.com/tamales.jpg,"['corn dough', 'chicken', 'chilies', 'husks']",60,Tamales,4,"['spicy', 'gluten free']",1,0,16,corn dough chicken chilies husks
+dessert,baking,italian,https://example.com/zabaglione.jpg,"['egg yolks', 'sugar', 'marsala wine']",20,Zabaglione,2,"['gluten free', 'sweet']",0,0,12,egg yolks sugar marsala wine
+main course,grilling,american,https://example.com/salmon.jpg,"['salmon fillet', 'dill', 'lemon', 'olive oil']",25,Grilled Salmon,4,"['keto', 'low carb']",1,4,1,salmon fillet dill lemon olive oil
+snack,frying,chinese,https://example.com/crab_rangoon.jpg,"['crab meat', 'cream cheese', 'wonton wrappers']",20,Crab Rangoon,6,"['dairy', 'kid friendly']",3,3,6,crab meat cream cheese wonton wrappers
+dessert,baking,french,https://example.com/souffle.jpg,"['chocolate', 'eggs', 'sugar', 'butter']",30,Chocolate Soufflé,4,"['dairy', 'sweet']",0,0,8,chocolate eggs sugar butter
+main course,boiling,indian,https://example.com/rajma.jpg,"['red kidney beans', 'tomatoes', 'onions', 'spices']",40,Rajma,4,"['vegetarian', 'vegan']",1,1,11,red kidney beans tomatoes onions spices
+snack,frying,mexican,https://example.com/tostadas.jpg,"['corn tortillas', 'beans', 'avocado', 'salsa']",25,Vegetarian Tostadas,4,"['gluten free', 'quick']",3,3,16,corn tortillas beans avocado salsa
+dessert,baking,american,https://example.com/lemon_bars.jpg,"['flour', 'sugar', 'lemon juice', 'butter']",40,Lemon Bars,8,"['vegetarian', 'sweet']",0,0,1,flour sugar lemon juice butter
+main course,grilling,korean,https://example.com/bulgogi.jpg,"['beef', 'soy sauce', 'garlic', 'sugar', 'sesame oil']",30,Korean Bulgogi,4,"['low carb', 'spicy']",1,4,14,beef soy sauce garlic sugar sesame oil
+snack,frying,turkish,https://example.com/sigara_borek.jpg,"['phyllo dough', 'feta cheese', 'parsley', 'oil']",20,Sigara Börek,6,"['vegetarian', 'kid friendly']",3,3,19,phyllo dough feta cheese parsley oil
+dessert,baking,caribbean,https://example.com/rum_cake.jpg,"['flour', 'sugar', 'rum', 'butter']",60,Caribbean Rum Cake,8,"['dairy', 'sweet']",0,0,5,flour sugar rum butter
+main course,boiling,african,https://example.com/peanut_soup.jpg,"['peanut butter', 'tomatoes', 'chicken', 'spices']",40,West African Peanut Soup,6,"['spicy', 'gluten free']",1,1,0,peanut butter tomatoes chicken spices
+side dish,steaming,ethiopian,https://example.com/injera.jpg,"['teff flour', 'water', 'yeast']",40,Injera,8,"['vegan', 'gluten free']",2,6,7,teff flour water yeast
+dessert,boiling,vietnamese,https://example.com/che_ba_mau.jpg,"['mung beans', 'coconut milk', 'jelly']",30,Che Ba Mau,4,"['dairy free', 'sweet']",0,1,20,mung beans coconut milk jelly
+snack,frying,caribbean,https://example.com/johnny_cakes.jpg,"['flour', 'water', 'sugar', 'oil']",25,Johnny Cakes,6,"['kid friendly', 'quick']",3,3,5,flour water sugar oil
+main course,grilling,brazilian,https://example.com/picanha.jpg,"['picanha beef', 'garlic', 'salt', 'skewers']",40,Brazilian Picanha,4,"['low carb', 'keto']",1,4,3,picanha beef garlic salt skewers
+dessert,baking,greek,https://example.com/baklava.jpg,"['puff pastry', 'walnuts', 'honey', 'cinnamon']",50,Baklava,8,"['vegetarian', 'sweet']",0,0,10,puff pastry walnuts honey cinnamon
+snack,frying,american,https://example.com/fried_green_tomatoes.jpg,"['tomatoes', 'cornmeal', 'flour', 'oil']",20,Fried Green Tomatoes,4,"['vegetarian', 'gluten free']",3,3,1,tomatoes cornmeal flour oil
+main course,boiling,thai,https://example.com/pad_thai.jpg,"['rice noodles', 'shrimp', 'tofu', 'peanuts']",30,Pad Thai,4,"['spicy', 'dairy free']",1,1,18,rice noodles shrimp tofu peanuts
+dessert,baking,italian,https://example.com/pizzelle.jpg,"['flour', 'sugar', 'eggs', 'anise']",40,Pizzelle,8,"['dairy', 'sweet']",0,0,12,flour sugar eggs anise
+main course,grilling,japanese,https://example.com/okonomiyaki.jpg,"['cabbage', 'flour', 'eggs', 'bacon']",30,Okonomiyaki,4,"['kid friendly', 'quick']",1,4,13,cabbage flour eggs bacon
+side dish,boiling,french,https://example.com/lyonnaise_potatoes.jpg,"['potatoes', 'onions', 'butter', 'parsley']",30,Lyonnaise Potatoes,4,"['vegetarian', 'gluten free']",2,1,8,potatoes onions butter parsley
+dessert,baking,american,https://example.com/peanut_butter_cookies.jpg,"['peanut butter', 'sugar', 'eggs', 'flour']",30,Peanut Butter Cookies,12,"['kid friendly', 'sweet']",0,0,1,peanut butter sugar eggs flour
+main course,frying,indian,https://example.com/pakora.jpg,"['vegetables', 'chickpea flour', 'spices', 'oil']",30,Vegetable Pakora,4,"['vegan', 'spicy']",1,3,11,vegetables chickpea flour spices oil
+snack,baking,mexican,https://example.com/sopapillas.jpg,"['flour', 'sugar', 'baking powder', 'oil']",40,Sopapillas,6,"['vegetarian', 'sweet']",3,0,16,flour sugar baking powder oil
+dessert,boiling,italian,https://example.com/panettone.jpg,"['flour', 'sugar', 'eggs', 'raisins']",60,Panettone,8,"['dairy', 'sweet']",0,1,12,flour sugar eggs raisins
+main course,grilling,american,https://example.com/ribs.jpg,"['pork ribs', 'barbecue sauce', 'spices']",60,Barbecue Ribs,4,"['kid friendly', 'spicy']",1,4,1,pork ribs barbecue sauce spices
+side dish,boiling,japanese,https://example.com/miso_eggplant.jpg,"['eggplant', 'miso paste', 'mirin', 'sugar']",30,Miso Glazed Eggplant,4,"['vegetarian', 'low carb']",2,1,13,eggplant miso paste mirin sugar
+dessert,baking,french,https://example.com/tarte_aux_fruits.jpg,"['puff pastry', 'pastry cream', 'fruits']",40,Fruit Tart,8,"['vegetarian', 'sweet']",0,0,8,puff pastry pastry cream fruits
+main course,boiling,thai,https://example.com/pad_see_ew.jpg,"['rice noodles', 'chicken', 'broccoli', 'soy sauce']",30,Pad See Ew,4,"['dairy free', 'low carb']",1,1,18,rice noodles chicken broccoli soy sauce
+snack,frying,indian,https://example.com/pakora.jpg,"['vegetables', 'chickpea flour', 'spices', 'oil']",30,Vegetable Pakora,4,"['vegan', 'spicy']",3,3,11,vegetables chickpea flour spices oil
+dessert,baking,mexican,https://example.com/churros.jpg,"['flour', 'sugar', 'cinnamon', 'oil']",30,Churros,8,"['gluten free', 'sweet']",0,0,16,flour sugar cinnamon oil
+main course,steaming,chinese,https://example.com/ma_po_tofu.jpg,"['tofu', 'ground pork', 'chili bean paste', 'scallions']",25,Ma Po Tofu,4,"['spicy', 'dairy free']",1,6,6,tofu ground pork chili bean paste scallions
+side dish,boiling,indian,https://example.com/poha.jpg,"['flattened rice', 'peanuts', 'curry leaves', 'spices']",15,Poha,2,"['vegan', 'quick']",2,1,11,flattened rice peanuts curry leaves spices
+dessert,baking,french,https://example.com/creme_brulee.jpg,"['cream', 'sugar', 'egg yolks', 'vanilla']",45,Crème Brûlée,4,"['dairy', 'sweet']",0,0,8,cream sugar egg yolks vanilla
+main course,grilling,american,https://example.com/pulled_pork.jpg,"['pork shoulder', 'barbecue sauce', 'spices']",60,Pulled Pork Sandwiches,4,"['kid friendly', 'dairy free']",1,4,1,pork shoulder barbecue sauce spices
+snack,frying,chinese,https://example.com/spring_roll.jpg,"['cabbage', 'carrots', 'soy sauce', 'wrappers']",25,Veggie Spring Rolls,6,"['vegan', 'quick']",3,3,6,cabbage carrots soy sauce wrappers
+main course,baking,french,https://example.com/ratatouille.jpg,"['zucchini', 'eggplant', 'tomatoes', 'herbs']",50,Ratatouille,4,"['vegetarian', 'gluten free']",1,0,8,zucchini eggplant tomatoes herbs
+snack,frying,indian,https://example.com/bhajji.jpg,"['onions', 'chickpea flour', 'spices', 'oil']",30,Onion Bhajji,6,"['vegan', 'spicy']",3,3,11,onions chickpea flour spices oil
+dessert,baking,british,https://example.com/sticky_toffee.jpg,"['dates', 'sugar', 'cream', 'flour']",60,Sticky Toffee Pudding,8,"['dairy', 'sweet']",0,0,4,dates sugar cream flour
+main course,grilling,mexican,https://example.com/burrito.jpg,"['tortilla', 'beans', 'rice', 'cheese']",30,Burrito,4,"['vegetarian', 'dairy']",1,4,16,tortilla beans rice cheese
+side dish,boiling,italian,https://example.com/caprese.jpg,"['tomatoes', 'mozzarella', 'basil', 'olive oil']",15,Caprese Salad,4,"['vegetarian', 'gluten free']",2,1,12,tomatoes mozzarella basil olive oil
+dessert,boiling,indian,https://example.com/gulab_jamun.jpg,"['milk powder', 'sugar', 'cardamom', 'oil']",60,Gulab Jamun,8,"['dairy', 'sweet']",0,1,11,milk powder sugar cardamom oil
+main course,steaming,chinese,https://example.com/dumplings.jpg,"['ground pork', 'cabbage', 'wrappers']",40,Steamed Dumplings,6,"['kid friendly', 'quick']",1,6,6,ground pork cabbage wrappers
+snack,frying,mediterranean,https://example.com/falafel.jpg,"['chickpeas', 'spices', 'parsley', 'oil']",30,Falafel,6,"['vegan', 'gluten free']",3,3,15,chickpeas spices parsley oil
+dessert,baking,american,https://example.com/brownies.jpg,"['chocolate', 'sugar', 'eggs', 'butter']",40,Chocolate Brownies,8,"['dairy', 'sweet']",0,0,1,chocolate sugar eggs butter
+main course,boiling,greek,https://example.com/souvlaki.jpg,"['chicken', 'lemon', 'garlic', 'oregano']",30,Chicken Souvlaki,4,"['dairy free', 'low carb']",1,1,10,chicken lemon garlic oregano
+side dish,grilling,american,https://example.com/corn.jpg,"['corn', 'butter', 'salt', 'pepper']",20,Grilled Corn,4,"['vegetarian', 'quick']",2,4,1,corn butter salt pepper
+dessert,freezing,french,https://example.com/sorbet.jpg,"['fruits', 'sugar', 'water']",30,Fruit Sorbet,6,"['vegan', 'sweet']",0,2,8,fruits sugar water
+main course,grilling,turkish,https://example.com/doner.jpg,"['beef', 'pita', 'yogurt sauce', 'lettuce']",40,Doner Kebab,4,"['spicy', 'dairy free']",1,4,19,beef pita yogurt sauce lettuce
+snack,frying,american,https://example.com/onion_rings.jpg,"['onions', 'batter', 'oil', 'spices']",25,Onion Rings,4,"['kid friendly', 'dairy free']",3,3,1,onions batter oil spices
+dessert,baking,portuguese,https://example.com/pasteis.jpg,"['puff pastry', 'custard', 'sugar']",50,Pastéis de Nata,8,"['sweet', 'dairy']",0,0,17,puff pastry custard sugar
+main course,boiling,japanese,https://example.com/ramen.jpg,"['noodles', 'broth', 'pork', 'egg']",60,Ramen,4,"['spicy', 'dairy free']",1,1,13,noodles broth pork egg
+side dish,boiling,thai,https://example.com/spring_rolls.jpg,"['rice paper', 'vegetables', 'shrimp']",30,Fresh Spring Rolls,6,"['dairy free', 'low carb']",2,1,18,rice paper vegetables shrimp
+dessert,baking,greek,https://example.com/baklava.jpg,"['phyllo', 'nuts', 'honey', 'sugar']",50,Baklava,8,"['dairy free', 'sweet']",0,0,10,phyllo nuts honey sugar
+main course,grilling,argentinian,https://example.com/asado.jpg,"['beef ribs', 'chimichurri', 'spices']",120,Asado,6,"['dairy free', 'spicy']",1,4,2,beef ribs chimichurri spices
+snack,frying,indian,https://example.com/bhel_puri.jpg,"['puffed rice', 'tamarind', 'vegetables']",20,Bhel Puri,4,"['vegan', 'quick']",3,3,11,puffed rice tamarind vegetables
+dessert,baking,german,https://example.com/black_forest_cake.jpg,"['chocolate cake', 'cherries', 'cream']",90,Black Forest Cake,12,"['dairy', 'sweet']",0,0,9,chocolate cake cherries cream
+main course,roasting,british,https://example.com/shepherds_pie.jpg,"['ground lamb', 'potatoes', 'carrots']",60,Shepherd's Pie,6,"['dairy', 'kid friendly']",1,5,4,ground lamb potatoes carrots
+side dish,steaming,vietnamese,https://example.com/pho.jpg,"['rice noodles', 'broth', 'herbs', 'beef']",45,Pho,4,"['spicy', 'dairy free']",2,6,20,rice noodles broth herbs beef
+dessert,boiling,indian,https://example.com/rasmalai.jpg,"['milk', 'sugar', 'cardamom', 'saffron']",50,Rasmalai,6,"['dairy', 'sweet']",0,1,11,milk sugar cardamom saffron
+snack,grilling,mexican,https://example.com/quesadilla.jpg,"['tortilla', 'cheese', 'chicken', 'salsa']",20,Quesadilla,4,"['kid friendly', 'dairy']",3,4,16,tortilla cheese chicken salsa
+main course,steaming,chinese,https://example.com/sweet_sour_chicken.jpg,"['chicken', 'pineapple', 'bell peppers']",40,Sweet and Sour Chicken,4,"['dairy free', 'kid friendly']",1,6,6,chicken pineapple bell peppers
+side dish,frying,indian,https://example.com/aloo_tikki.jpg,"['potatoes', 'spices', 'breadcrumbs']",30,Aloo Tikki,6,"['vegan', 'quick']",2,3,11,potatoes spices breadcrumbs
+dessert,baking,french,https://example.com/macarons.jpg,"['almond flour', 'sugar', 'egg whites']",90,Macarons,12,"['gluten free', 'sweet']",0,0,8,almond flour sugar egg whites
+main course,grilling,mexican,https://example.com/fajitas.jpg,"['chicken', 'bell peppers', 'onions', 'tortillas']",30,Chicken Fajitas,4,"['quick', 'dairy free']",1,4,16,chicken bell peppers onions tortillas
+snack,baking,italian,https://example.com/bruschetta.jpg,"['bread', 'tomatoes', 'basil', 'olive oil']",15,Bruschetta,6,"['vegan', 'quick']",3,0,12,bread tomatoes basil olive oil
+dessert,baking,american,https://example.com/brownies.jpg,"['chocolate', 'flour', 'sugar', 'eggs']",40,Fudge Brownies,8,"['sweet', 'kid friendly']",0,0,1,chocolate flour sugar eggs
+main course,steaming,chinese,https://example.com/dim_sum.jpg,"['dumpling wrappers', 'shrimp', 'soy sauce']",25,Shrimp Dim Sum,4,"['low carb', 'quick']",1,6,6,dumpling wrappers shrimp soy sauce
+side dish,roasting,mediterranean,https://example.com/hummus.jpg,"['chickpeas', 'tahini', 'garlic', 'olive oil']",20,Hummus,6,"['vegan', 'gluten free']",2,5,15,chickpeas tahini garlic olive oil
+snack,frying,korean,https://example.com/kimchi_pancakes.jpg,"['kimchi', 'flour', 'eggs', 'scallions']",30,Kimchi Pancakes,4,"['spicy', 'vegetarian']",3,3,14,kimchi flour eggs scallions
+dessert,boiling,indian,https://example.com/gulab_jamun.jpg,"['milk solids', 'sugar', 'cardamom', 'rose water']",50,Gulab Jamun,6,"['dairy', 'sweet']",0,1,11,milk solids sugar cardamom rose water
+main course,grilling,greek,https://example.com/souvlaki.jpg,"['pork', 'lemon', 'olive oil', 'oregano']",35,Pork Souvlaki,4,"['dairy free', 'quick']",1,4,10,pork lemon olive oil oregano
+side dish,boiling,japanese,https://example.com/soba_noodles.jpg,"['soba noodles', 'soy sauce', 'sesame oil']",20,Sesame Soba Noodles,4,"['vegan', 'quick']",2,1,13,soba noodles soy sauce sesame oil
+snack,baking,french,https://example.com/macarons.jpg,"['almond flour', 'sugar', 'egg whites']",90,French Macarons,8,"['gluten free', 'sweet']",3,0,8,almond flour sugar egg whites
+dessert,freezing,american,https://example.com/popsicles.jpg,"['fruit juice', 'sugar', 'water']",240,Fruit Popsicles,6,"['vegan', 'sweet']",0,2,1,fruit juice sugar water
+main course,frying,italian,https://example.com/arancini.jpg,"['rice', 'mozzarella', 'breadcrumbs', 'oil']",45,Arancini,6,"['dairy', 'kid friendly']",1,3,12,rice mozzarella breadcrumbs oil
+snack,baking,mediterranean,https://example.com/pita_chips.jpg,"['pita bread', 'olive oil', ""za'atar""]",20,Pita Chips,4,"['vegan', 'quick']",3,0,15,pita bread olive oil za'atar
+dessert,baking,greek,https://example.com/baklava.jpg,"['phyllo pastry', 'nuts', 'honey']",60,Baklava,8,"['sweet', 'dairy free']",0,0,10,phyllo pastry nuts honey
+main course,boiling,vietnamese,https://example.com/bun_bo_hue.jpg,"['beef', 'rice noodles', 'lemongrass', 'chili']",60,Bun Bo Hue,6,"['spicy', 'dairy free']",1,1,20,beef rice noodles lemongrass chili
+snack,frying,indian,https://example.com/bhajia.jpg,"['chickpea flour', 'onions', 'spices']",30,Onion Bhajia,4,"['vegan', 'spicy']",3,3,11,chickpea flour onions spices
+dessert,freezing,japanese,https://example.com/matcha_ice_cream.jpg,"['matcha', 'milk', 'sugar', 'cream']",120,Matcha Ice Cream,8,"['dairy', 'sweet']",0,2,13,matcha milk sugar cream
+main course,grilling,turkish,https://example.com/adana_kebab.jpg,"['ground lamb', 'spices', 'flatbread']",40,Adana Kebab,4,"['low carb', 'spicy']",1,4,19,ground lamb spices flatbread
+side dish,roasting,french,https://example.com/ratatouille.jpg,"['eggplant', 'zucchini', 'tomatoes', 'herbs']",50,Ratatouille,6,"['vegan', 'gluten free']",2,5,8,eggplant zucchini tomatoes herbs
+snack,baking,american,https://example.com/pretzels.jpg,"['flour', 'baking soda', 'salt', 'butter']",35,Soft Pretzels,4,"['kid friendly', 'vegetarian']",3,0,1,flour baking soda salt butter

@@ -1,0 +1,29 @@
+Recipe Analysis Summary
+=====================
+
+Total recipes analyzed: 165
+Number of cuisines: 21
+Number of categories: 4
+Number of cooking methods: 7
+
+Cluster Summary:
+
+Cluster_0:
+  Size: 43
+  Sample recipes: Nachos, Butter Chicken, Onion Rings, Chimichanga, Garlic Bread
+
+Cluster_1:
+  Size: 58
+  Sample recipes: Classic Lasagna, French Macarons, Tiramisu, Apple Pie, Spaghetti Carbonara
+
+Cluster_2:
+  Size: 39
+  Sample recipes: Miso Soup, Chinese Dumplings, Tom Yum Soup, Yakitori, Spring Rolls
+
+Cluster_3:
+  Size: 5
+  Sample recipes: BBQ Ribs, Pulled Pork Sandwiches, Barbecue Ribs, Pulled Pork Sandwiches, Asado
+
+Cluster_4:
+  Size: 20
+  Sample recipes: Samosa, Papdi Chaat, Roasted Chickpeas, Fried Chicken, Vada Pav
